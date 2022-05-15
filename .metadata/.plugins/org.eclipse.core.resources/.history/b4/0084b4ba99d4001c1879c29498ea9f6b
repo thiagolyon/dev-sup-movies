@@ -1,0 +1,5 @@
+package com.devsuperior.lyonmovier.config;
+
+public class SecurityConfig {
+
+}
