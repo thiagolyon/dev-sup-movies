@@ -1,0 +1,7 @@
+package com.devsuperior.lyonmovier.entities;
+
+public class Score {
+
+	private Movie movie;
+	
+}
