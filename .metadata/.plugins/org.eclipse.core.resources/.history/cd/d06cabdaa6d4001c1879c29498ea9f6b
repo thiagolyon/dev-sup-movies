@@ -1,0 +1,20 @@
+package com.devsuperior.lyonmovier.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.devsuperior.lyonmovier.repositories.MovieRepository;
+
+@Service
+public class ScoreService {
+
+	@Autowired
+	private MovieRepository movieRepository;
+	
+	@Autowired
+	private UserRepository userRepository;
+	
+	@Autowired
+	private ScoreRepository scoreRepository;
+	
+}	
