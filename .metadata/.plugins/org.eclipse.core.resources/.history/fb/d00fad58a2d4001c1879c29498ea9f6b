@@ -1,0 +1,5 @@
+package com.devsuperior.lyonmovier.services;
+
+public class MovieService {
+
+}

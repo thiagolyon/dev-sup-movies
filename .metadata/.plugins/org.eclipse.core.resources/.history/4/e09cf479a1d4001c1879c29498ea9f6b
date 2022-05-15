@@ -1,0 +1,5 @@
+package com.devsuperior.lyonmovier.repositories;
+
+public interface MovieRepository {
+
+}

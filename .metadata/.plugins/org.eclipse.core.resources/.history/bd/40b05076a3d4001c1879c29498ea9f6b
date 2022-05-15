@@ -1,0 +1,5 @@
+package com.devsuperior.lyonmovier.controllers;
+
+public class MovieController {
+
+}

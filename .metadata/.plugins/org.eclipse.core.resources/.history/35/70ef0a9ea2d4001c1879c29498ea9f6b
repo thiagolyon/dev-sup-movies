@@ -1,0 +1,18 @@
+package com.devsuperior.lyonmovier.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.devsuperior.lyonmovier.dto.MovieDTO;
+
+@Service
+public class MovieService {
+
+	private MovieRepository repository;
+	
+	public List<MovieDTO> findAll() {
+		
+	}
+	
+}
